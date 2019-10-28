@@ -1,10 +1,16 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Привет! 
+Меня зовут Алексей и это, как ни странно, мой блог. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Сегодня я решил, что лучше поздно, чем никогда. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+У меня было много различных блогов на различных площадках, в которые я писал заметки/статьи/флейм на самые различные темы. Увы, блогосфера переживает не лучшие дни (а казахстанская практически умерла), поэтому решил публиковать посты здесь. Как говорится — пусть здесь полежит. 
+
+У блога нет определённой тематики, буду стараться писать сюда то, что засело в голове. Ну и может выложу чего-нибудь из старого.
+
+В общем, читайте, созидайте и отвечайте.
